@@ -1,0 +1,17 @@
+{
+  "name": "pug-gulp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1",
+    "html": "^1.0.0",
+    "through2": "^3.0.1"
+  }
+}
